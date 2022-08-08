@@ -4,9 +4,16 @@
 
 <h4 align="center">Creating a Real Time Bus Tracker using mapbox with data from MBTA</h4>
 <br>
-<div align="center" id="top"> 
-<img src ="./map.jpg" width ='600'/>
-</div>
+<br>
+
+https://user-images.githubusercontent.com/104742558/183481803-31422bf4-01a0-4a52-aad1-03f83f145697.mp4
+
+<br>
+<br>
+
+*[Visit the github page for this repository](https://suja-codes.github.io/Real-Time-Bus-Tracker/)*
+
+<br>
 
 ### Description 
 
@@ -52,3 +59,14 @@ This exercise stems from MIT xPRO Professional Certificate in Coding: Full Stack
 > LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 > SOFTWARE.
+
+### Footnote
+
+>Reference[^1].  
+>Reference[^2].
+>Reference[^3].  
+
+>[^1]: MIT course.
+>[^2]: mapbox for popups and layouts.
+>[^3]: github repositories to remove popups and add colors to markers.  
+  
