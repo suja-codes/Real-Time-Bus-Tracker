@@ -1,6 +1,6 @@
 
 //Enter your mapbox access token 
-mapboxgl.accessToken = 
+mapboxgl.accessToken = 'pk.eyJ1IjoiYWp1cy1hIiwiYSI6ImNsNjNqbnAwODJpNHEzamwzZHQyeWpzaTgifQ._YJzCFL6otc-RNTHMGTWZQ'; 
 	
 	//To generate marker in colors 
 	const colors =[
